@@ -1,0 +1,11 @@
+diff --git a/src/main.c b/src/main.c
+index cf21262..4da47f0 100644
+--- a/src/main.c
++++ b/src/main.c
+@@ -2,5 +2,6 @@
+ #include <stdio.h>
+ int main() {
+     printf("HELLO ESPL\n");
++    pribtf("Hello test\n");
+     return 0;
+ }
