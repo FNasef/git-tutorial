@@ -1,0 +1,4 @@
+/home/rtos-sim/ESPL_code/git-tutorial/src/CMakeFiles/edit_cache.dir
+/home/rtos-sim/ESPL_code/git-tutorial/src/CMakeFiles/rebuild_cache.dir
+/home/rtos-sim/ESPL_code/git-tutorial/src/CMakeFiles/STATES_LIB.dir
+/home/rtos-sim/ESPL_code/git-tutorial/src/CMakeFiles/state_machine.dir
